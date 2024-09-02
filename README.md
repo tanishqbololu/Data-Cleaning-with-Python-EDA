@@ -22,7 +22,7 @@ The project addresses various data quality issues in raw datasets and prepares t
 6. Data Splitting:
   * Separated the dataset into independent variables (X) and the dependent variable (Y) for modeling purposes.
 
-7. Categorical Data Encoding:
+7. Categorical Data Encoding: IMPUTATION / VARIABLE TRANSFORMATION
   * Converted categorical variables into numerical formats to facilitate analysis and modeling.
 
 8. Exploratory Data Analysis (EDA):
